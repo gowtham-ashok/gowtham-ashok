@@ -2,7 +2,7 @@
 - 👀 I’m interested in android and ios development
 - 🌱 I’m currently learning java and swift
 - 💞️ I’m looking to collaborate on app development 
-- 📫 How to reach me ...gowtham.gts9r@gmail.com
+- 📫 How to reach me ...gowthamashoka111@gmail.com
 
 <!---
 gowtham-ashok/gowtham-ashok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
