@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gowtham-ashok
 - 👀 I’m interested in android and ios development
-- 🌱 I’m currently learning java and swift
+- 🌱 I’m currently a Student who likes to learn
 - 💞️ I’m looking to collaborate on app development 
 - 📫 How to reach me ...gowthamashoka111@gmail.com
 
